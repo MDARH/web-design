@@ -1,3 +1,13 @@
+*
+{
+  margin: 0;
+}
+
+body
+{
+  background-color: #76F074;
+}
+
 .anu
 {
 	height: 400px;
@@ -29,4 +39,11 @@ td {
   background-color: #96D4D4;
   border-style: dashed;
   border-color: #ff9966;
+}
+
+div
+{
+  background-color:black;
+  color:white;
+  padding:20px;
 }
